@@ -1,0 +1,21 @@
+Question Number,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,"What does CPU stand for?","Central Processing Unit","Central Program Utility","Computer Personal Unit","Central Processor Utility",A
+2,"Which data structure uses LIFO (Last In First Out) principle?","Queue","Stack","Array","Linked List",B
+3,"What is the time complexity of binary search algorithm?","O(n)","O(log n)","O(n²)","O(1)",B
+4,"Which programming language is known as the backbone of web pages?","Python","Java","HTML","CSS",C
+5,"What does SQL stand for?","Structured Query Language","Simple Question Language","System Quality Logic","Standard Query Language",A
+6,"Which sorting algorithm has the best average time complexity?","Bubble Sort","Selection Sort","Merge Sort","Insertion Sort",C
+7,"What is the smallest unit of data in a computer?","Bit","Byte","Nibble","Kilobyte",A
+8,"Which protocol is used for sending emails?","HTTP","FTP","SMTP","TCP",C
+9,"What does RAM stand for?","Random Access Memory","Read Access Memory","Rapid Access Memory","Run Access Memory",A
+10,"In object-oriented programming, what is encapsulation?","Wrapping data and methods together in a single unit","Inheriting properties from parent class","Creating multiple methods with same name","Declaring variables",A
+11,"Which of the following is NOT a programming paradigm?","Object-Oriented","Functional","Procedural","Sequential",D
+12,"What is the default port number for HTTP?","21","80","443","8080",B
+13,"Which data structure is used to implement recursion?","Queue","Stack","Tree","Graph",B
+14,"What does API stand for?","Application Programming Interface","Advanced Programming Interface","Application Process Integration","Automated Program Interaction",A
+15,"Which search algorithm is used by default in Python's 'in' operator for lists?","Binary Search","Linear Search","Hash Search","Jump Search",B
+16,"What is the purpose of a compiler?","Execute code line by line","Convert high-level code to machine code","Debug programs","Manage memory",B
+17,"Which network topology connects all devices to a central hub?","Ring","Bus","Star","Mesh",C
+18,"What does HTTP stand for?","HyperText Transfer Protocol","HighText Transfer Protocol","HyperText Transmission Protocol","HyperTool Transfer Protocol",A
+19,"In databases, what does ACID stand for?","Atomicity Consistency Isolation Durability","Access Control Identity Data","Automated Consistent Integrated Database","Abstract Class Interface Definition",A
+20,"Which Big O notation represents constant time complexity?","O(n)","O(log n)","O(1)","O(n²)",C
