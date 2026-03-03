@@ -33,8 +33,6 @@ def get_positon(label):
             return position
         except ValueError:
             cprint("Invalid Choice !",'red')
-        except KeyboardInterrupt:
-            cprint("Game Restart")
 
 
 def get_move(current):
