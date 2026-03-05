@@ -20,8 +20,8 @@ def generate_qr_codes(items, color):
 
 raw_input_text = input(
     "Enter URLs/texts separated by commas (example: https://a.com,Hello,https://b.com): "
-)
-items = [part.strip() for part in raw_input_text.split(",") if part.strip()]
+).split(',')
+items = [part.strip() for part in raw_input_text if part.strip()]
 
 if not items:
     print("No valid URLs/texts provided.")
