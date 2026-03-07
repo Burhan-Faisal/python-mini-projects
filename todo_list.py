@@ -59,6 +59,7 @@ def remove_task(category):
 
 def choose_category():
     if categories:
+        print("--------List of Categories-------")
         for index,category_item in enumerate(categories,start=1):
             print(f"{index}.{category_item}")
     else:
