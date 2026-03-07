@@ -1,6 +1,20 @@
 {
-    "pending": [],
-    "completed": [
-        "post content on social media"
-    ]
+    "PERSONAL": {
+        "Pending Tasks": [
+            "repair the washing machine"
+        ],
+        "Completed Tasks": []
+    },
+    "WORK": {
+        "Pending Tasks": [
+            "attend meeting at zoom on 11a.m"
+        ],
+        "Completed Tasks": [
+            "post content on social media"
+        ]
+    },
+    "PROJECT": {
+        "Pending Tasks": [],
+        "Completed Tasks": []
+    }
 }
