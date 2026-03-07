@@ -1,20 +1,8 @@
 {
-    "PERSONAL": {
+    "COPANY": {
         "Pending Tasks": [
-            "repair the washing machine"
+            "make daily sale"
         ],
-        "Completed Tasks": []
-    },
-    "WORK": {
-        "Pending Tasks": [
-            "attend meeting at zoom on 11a.m"
-        ],
-        "Completed Tasks": [
-            "post content on social media"
-        ]
-    },
-    "PROJECT": {
-        "Pending Tasks": [],
         "Completed Tasks": []
     }
 }
