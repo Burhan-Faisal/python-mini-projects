@@ -5,15 +5,6 @@ choices=['Append Some Text',
         'Replace Some Words']
 
 
-def read_file(filename):
-  with open(filename, 'r') as file:
-    return file.read()
-  
-def write_file(filename, content):
-  with open(filename, 'w') as file:
-    file.write(content)
-
-
 def get_user_input():
     print("Enter your text(type 'Save' on a new line to save and exit)\n")
     lines=[]
