@@ -46,4 +46,6 @@ def play_game():
         except ValueError:
             print("Invalid Guess !")
 
-play_game()
+
+if __name__ == '__main__':
+    play_game()
