@@ -27,31 +27,8 @@ Here are some of the mini projects available in this repository:
 * 🧮 Simple Calculator
 * 📂 File Handling Utilities
 * 🔍 Search & Regex-Based Tools
-* 📊 Basic Data Processing Scripts
-
-> More projects will be added regularly.
-
 ---
 
-## 🛠️ Technologies Used
-
-* Python 3.x
-* Standard Python Libraries (`re`, `random`, `os`, etc.)
-
----
-
-## 📂 Project Structure
-
-Each project is organized in a separate folder or file:
-
-```bash
-project_name/
-│── main.py
-│── README.md (optional)
-│── resources (if any)
-```
-
----
 
 ## ▶️ How to Run
 
@@ -125,7 +102,7 @@ If you find this repository helpful:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**BURHAN FAISAL**
 Python Enthusiast | Learner | Future Developer
 
 ---
