@@ -107,7 +107,7 @@ def play_game():
                 display_word(word,guessed_letters)
                 print(f"Attempts left : {max_attempts-attempts}")
 
-                if hints>2:
+                if hints<2:
                     if(get_hint(word,guessed_letters)):
                         hints+=1
 
