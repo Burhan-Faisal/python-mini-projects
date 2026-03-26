@@ -130,11 +130,8 @@ For a full list, check [reqirements.txt](./reqirements.txt)
 9. QR Code Generator
 10. ATM Simulation
 11. Complex Games (Cow & Bull, Pig Dice)
- 
 
-## 📄 License
 
-This project is open source and available under the MIT License - feel free to use, modify, and distribute!
 
 ## 🙏 Acknowledgments
 
