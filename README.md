@@ -5,7 +5,7 @@ A comprehensive collection of beginner-friendly Python projects to help you lear
 ## 📋 Table of Contents
 
 - [About](#about)
-- [Features](#features)
+- [Features](##features)
 - [Projects Included](#projects-included)
 - [Installation](#installation)
 - [Usage](#usage)
