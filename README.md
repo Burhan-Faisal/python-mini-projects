@@ -11,7 +11,6 @@ A comprehensive collection of beginner-friendly Python projects to help you lear
 - [Usage](#usage)
 - [Project Descriptions](#-project-descriptions)
 - [Requirements](#-requirements)
-- [Contributing](#contributing)
 - [License](#-license)
 
 ## 🎯 About
