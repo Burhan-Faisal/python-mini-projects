@@ -1,4 +1,3 @@
-***MODULES USED***
 pillow==12.1.0
 qrcode==8.2
 termcolor==3.3.0
