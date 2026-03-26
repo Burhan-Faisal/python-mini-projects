@@ -1,110 +1,148 @@
-# 🐍 Python Mini Projects Collection
+# 🐍 Python Mini Projects
 
-Welcome to the **Python Mini Projects Repository** 🎯
-This repository contains a collection of beginner-to-intermediate level Python projects designed to strengthen programming fundamentals and problem-solving skills.
+A comprehensive collection of beginner-friendly Python projects to help you learn and master core programming concepts while building practical applications!
 
----
+## 📋 Table of Contents
 
-## 📌 About This Repository
+- [About](#-about)
+- [Features](#-features)
+- [Projects Included](#-projects-included)
+- [Installation](#-installation)
+- [Usage](#usage)
+- [Project Descriptions](#-project-descriptions)
+- [Requirements](#-requirements)
+- [Contributing](#contributing)
+- [License](#-license)
 
-This repository is created to:
+## 🎯 About
 
-* Practice core Python concepts
-* Build logic and problem-solving skills
-* Explore real-world mini applications
-* Prepare for coding interviews and academic projects
+This repository contains **20+ mini Python projects** designed to help beginners and intermediate developers:
+- 🚀 **Learn core Python concepts** through hands-on projects
+- 💪 **Build confidence** by creating real-world applications
+- 🔧 **Practice best practices** in Python development
+- 📚 **Explore different libraries** and their applications
 
-Each project is simple, well-structured, and easy to understand.
+Whether you're just starting your Python journey or looking to solidify your fundamentals, these projects cover a wide range of use cases and difficulty levels.
 
----
+## ✨ Features
 
-## 🚀 Projects Included
+✅ **Beginner-Friendly** - All projects are designed with beginners in mind  
+✅ **Well-Documented** - Clear code with comments explaining key concepts  
+✅ **Diverse Topics** - Games, utilities, automation, and data processing  
+✅ **Easy to Run** - Simple command-line interfaces and minimal setup  
+✅ **Great for Portfolio** - Build a portfolio while learning  
 
-Here are some of the mini projects available in this repository:
+## 📂 Projects Included
 
-* 🔐 Password Strength Checker
-* 🎲 Number Guessing Game
-* 🧮 Simple Calculator
-* 📂 File Handling Utilities
-* 🔍 Search & Regex-Based Tools
----
+| Project | Type | Description |
+|---------|------|-------------|
+| **Rock Paper Scissor** | Game | Classic game against the computer |
+| **Number Guessing** | Game | Interactive number guessing game with hints |
+| **Dice Rolling** | Game | Simulate dice rolls with statistics |
+| **Tic Tac Toe** | Game | Play the classic game vs AI |
+| **Cow & Bull Game** | Game | Guess the number with feedback |
+| **Pig Dice Game** | Game | Traditional pig dice game implementation |
+| **Slot Machine** | Game | Simulate a slot machine |
+| **Word Guess** | Game | Guess the word in limited attempts |
+| **Password Generator** | Utility | Generate secure random passwords |
+| **Password Strength Checker** | Utility | Analyze password security |
+| **QR Code Generator** | Utility | Create QR codes from text |
+| **Currency Converter** | Utility | Convert between different currencies |
+| **Simple Text Editor** | Utility | Basic text editing application |
+| **Todo List** | Utility | Task management with JSON storage |
+| **ATM Simulation** | Simulation | Bank ATM operations simulator |
+| **Quiz Game** | Game | Test your knowledge with quizzes |
+
+## 🚀 Installation
+
+### Prerequisites
+- Python 3.7 or higher
+- pip (Python package manager)
+
+### Setup Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Burhan-Faisal/python-mini-projects.git
+   cd python-mini-projects
+   ```
+
+2. **Install required dependencies:**
+   ```bash
+   pip install -r reqirements.txt
+   ```
+
+3. **Verify installation:**
+   ```bash
+   python --version
+   ```
 
 
-## ▶️ How to Run
+## 📖 Project Descriptions
 
-1. Clone the repository:
+### 🎮 Games
+- **rockpaperscissor.py** - Choose rock, paper, or scissor and compete against the computer
+- **numberguessing.py** - The computer thinks of a number; you try to guess it
+- **dicerolling.py** - Roll dice and see the results
+- **tictactoe.py** - Two-player or single-player tic tac toe game
+- **cow_bullgame.py** - Guess a number with "cow" and "bull" feedback system
+- **pigdicegame.py** - Classic pig dice game implementation
+- **slotmachine.py** - Experience a simulated slot machine
+- **wordguess.py** - Guess the hidden word before running out of attempts
+- **quizgame.py** - Answer trivia questions from CSV files
 
-```bash
-git clone https://github.com/your-username/python-mini-projects.git
+### 🛠️ Utilities & Tools
+- **passwordgenerator.py** - Generate secure random passwords of any length
+- **password_strength_checker.py** - Check if your password is strong enough
+- **qrcodegenerator.py** - Convert text into QR codes
+- **currencyconverter.py** - Convert currency values between different currencies
+- **simpletexteditor.py** - Create, edit, and save text files
+- **todo_list.py** - Add, remove, and manage your daily tasks
+
+### 💳 Simulations
+- **atmsimulation.py** - Simulate ATM operations like deposit, withdraw, and check balance
+
+## 📦 Requirements
+
+All project dependencies are listed in `reqirements.txt`. Key libraries include:
+
+```
+qrcode
+pyqrcode
 ```
 
-2. Navigate to the project folder:
+For a full list, check [reqirements.txt](./reqirements.txt)
 
-```bash
-cd python-mini-projects
-```
+## 🎓 Learning Path
 
-3. Run any project:
+**Beginner Level:**
+1. Rock Paper Scissor
+2. Dice Rolling
+3. Number Guessing
+4. Password Generator
 
-```bash
-python file_name.py
-```
+**Intermediate Level:**
+5. Todo List
+6. Tic Tac Toe
+7. Quiz Game
+8. Currency Converter
 
----
+**Advanced Level:**
+9. QR Code Generator
+10. ATM Simulation
+11. Complex Games (Cow & Bull, Pig Dice)
+ 
 
-## 🎯 Who Is This For?
+## 📄 License
 
-* Beginners learning Python
-* Students working on assignments
-* Anyone practicing coding skills
-* Future developers building a strong foundation
+This project is open source and available under the MIT License - feel free to use, modify, and distribute!
 
----
+## 🙏 Acknowledgments
 
-## 💡 Learning Outcomes
-
-By exploring these projects, you will:
-
-* Understand core Python concepts
-* Improve logical thinking
-* Learn file handling and error handling
-* Get hands-on coding experience
+Thank you for visiting this repository! Feel free to ⭐ star this repo if you find it helpful!
 
 ---
 
-## 🤝 Contributing
+**Happy Coding! 🚀**
 
-Contributions are welcome!
-
-If you want to add your own mini project:
-
-1. Fork the repository
-2. Add your project
-3. Submit a pull request
-
----
-
-## 📜 License
-
-This repository is open-source and available under the MIT License.
-
----
-
-## ⭐ Support
-
-If you find this repository helpful:
-
-* Give it a ⭐ on GitHub
-* Share it with others
-* Keep learning and building 🚀
-
----
-
-## 👨‍💻 Author
-
-**BURHAN FAISAL**
-Python Enthusiast | Learner | Future Developer
-
----
-
-> “Practice is the key to mastering programming.” 🔥
+*Last Updated: 2026-03-26 15:47:58*
