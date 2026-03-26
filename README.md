@@ -4,15 +4,15 @@ A comprehensive collection of beginner-friendly Python projects to help you lear
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Projects Included](#projects-included)
-- [Installation](#installation)
+- [About](#-about)
+- [Features](#-features)
+- [Projects Included](#-projects-included)
+- [Installation](#-installation)
 - [Usage](#usage)
-- [Project Descriptions](#project-descriptions)
-- [Requirements](#requirements)
+- [Project Descriptions](#-project-descriptions)
+- [Requirements](#-requirements)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#-license)
 
 ## 🎯 About
 
@@ -77,32 +77,6 @@ Whether you're just starting your Python journey or looking to solidify your fun
    python --version
    ```
 
-## 💻 Usage
-
-Each project is a standalone Python file. To run any project:
-
-```bash
-python <project_name>.py
-```
-
-### Examples:
-
-```bash
-# Play Rock Paper Scissor game
-python rockpaperscissor.py
-
-# Generate a password
-python passwordgenerator.py
-
-# Create a QR code
-python qrcodegenerator.py
-
-# Manage your todos
-python todo_list.py
-
-# Play tic tac toe
-python tictactoe.py
-```
 
 ## 📖 Project Descriptions
 
@@ -157,61 +131,7 @@ For a full list, check [reqirements.txt](./reqirements.txt)
 9. QR Code Generator
 10. ATM Simulation
 11. Complex Games (Cow & Bull, Pig Dice)
-
-## 👨‍💻 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a new branch (`git checkout -b feature/NewProject`)
-3. **Add** your improvements or new projects
-4. **Commit** your changes (`git commit -m 'Add new feature'`)
-5. **Push** to the branch (`git push origin feature/NewProject`)
-6. **Open** a Pull Request
-
-### Contribution Ideas:
-- ✨ Add new mini projects
-- 🐛 Fix bugs and improve code quality
-- 📝 Improve documentation
-- 🧪 Add unit tests
-- 🎨 Enhance user interface
-
-## 📝 Code Style Guidelines
-
-- Use meaningful variable names
-- Add comments for complex logic
-- Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide
-- Include docstrings for functions
-- Keep functions focused and modular
-
-## 💡 Tips for Beginners
-
-1. **Start Simple** - Begin with basic games like Rock Paper Scissor
-2. **Read the Code** - Before running, read and understand what the code does
-3. **Modify Projects** - Try changing the game rules or adding new features
-4. **Experiment** - Create your own variations of these projects
-5. **Debug** - Use `print()` statements to understand code flow
-6. **Document** - Add comments to understand your learning
-
-## 🐞 Issues & Support
-
-Found a bug or want to suggest improvements?
-- 📌 Open an [Issue](https://github.com/Burhan-Faisal/python-mini-projects/issues)
-- 💬 Feel free to discuss in the discussions section
-
-## 📸 Screenshots
-
-Check out example outputs from QR Code Generator:
-
-![QR Code Example 1](./Qrcode_module_qr.png)
-![QR Code Example 2](./Qrcode_module_qr_2.png)
-
-## 🎓 Learning Resources
-
-- [Python Official Documentation](https://docs.python.org/3/)
-- [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
-- [Real Python Tutorials](https://realpython.com/)
-- [Python for Beginners](https://www.python.org/about/gettingstarted/)
+ 
 
 ## 📄 License
 
